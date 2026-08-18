@@ -37,4 +37,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     SystemName=$(PRODUCT_SYSTEM_NAME)
 
 # Set Chaos Engineer Identifier
-CHARA_MAINTAINER := TheTrueClover
+CHARA_MAINTAINER := cinnamonbunni
